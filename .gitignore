@@ -8,3 +8,9 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Persisted sessions (contains access tokens)
+data/
+
+# Knowledge graph output (generated)
+graphify-out/
